@@ -40,3 +40,18 @@ use ctrl+/ to comment(or uncomment) a line
 
 - `git init` : Creates a Git repo in that folder. It creates .git folder which is hidden by default
 - `git remote add origin https://github.com/puneetsharma17/learning-node.git` : Connects github repo(repository) to local folder.
+
+## Pushing to Github
+
+```bash
+git add .
+git commit -m First commit
+git push origin main
+#
+git pull origin main
+#  ^^ Pull changes from github
+```
+
+## One time git command
+
+git config --global user.email "puneet.sharma.005@gmail.com"

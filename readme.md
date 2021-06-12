@@ -50,6 +50,12 @@ git push origin main
 #
 git pull origin main
 #  ^^ Pull changes from github
+#
+git status
+#  ^^ shows the recently changed file names
+#
+git diff
+# ^^ shows the changes you made recently
 ```
 
 ## One time git command

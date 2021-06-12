@@ -45,7 +45,7 @@ use ctrl+/ to comment(or uncomment) a line
 
 ```bash
 git add .
-git commit -m First commit
+git commit -m "First commit"
 git push origin main
 #
 git pull origin main

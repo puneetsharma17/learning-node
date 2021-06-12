@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Veeni",
+    "secondName": "Cat",
+    "age": 11
+  },
+  {
+    "firstName": "Oswald",
+    "secondName": "Octopus",
+    "age": 21
+  },
+  {
+    "firstName": "Pikachu",
+    "secondName": "Cat",
+    "age": 31
+  },
+  {
+    "firstName": "Muffin",
+    "secondName": "Dog",
+    "age": 41
+  },
+  {
+    "firstName": "Sheru",
+    "secondName": "Dog",
+    "age": 51
+  },
+  {
+    "firstName": "Tiger",
+    "secondName": "Cat",
+    "age": 61
+  }
+]

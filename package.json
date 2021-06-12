@@ -1,0 +1,14 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puneet",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
